@@ -1,0 +1,13 @@
+current directory: /home/thadeus/Development/code/phase-1/phase-1-html5-containers-lab/vendor/bundle/ruby/2.7.0/gems/json-2.5.1/ext/json
+/usr/share/rvm/rubies/ruby-2.7.4/bin/ruby -I /usr/share/rvm/rubies/ruby-2.7.4/lib/ruby/site_ruby/2.7.0 extconf.rb
+creating Makefile
+
+current directory: /home/thadeus/Development/code/phase-1/phase-1-html5-containers-lab/vendor/bundle/ruby/2.7.0/gems/json-2.5.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20220908-10779-hkgdtj sitelibdir\=./.gem.20220908-10779-hkgdtj clean
+
+current directory: /home/thadeus/Development/code/phase-1/phase-1-html5-containers-lab/vendor/bundle/ruby/2.7.0/gems/json-2.5.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20220908-10779-hkgdtj sitelibdir\=./.gem.20220908-10779-hkgdtj
+make: Nothing to be done for 'all'.
+
+current directory: /home/thadeus/Development/code/phase-1/phase-1-html5-containers-lab/vendor/bundle/ruby/2.7.0/gems/json-2.5.1/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20220908-10779-hkgdtj sitelibdir\=./.gem.20220908-10779-hkgdtj install
